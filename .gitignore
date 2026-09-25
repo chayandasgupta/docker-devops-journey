@@ -1,0 +1,15 @@
+```gitignore
+# Editor temporary files
+*.swp
+*.swo
+*.swn
+
+# Vim swap files
+.*.swp
+.*.swo
+.*.swn
+
+# OS files
+.DS_Store
+Thumbs.db
+```
